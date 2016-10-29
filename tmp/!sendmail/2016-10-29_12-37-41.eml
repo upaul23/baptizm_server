@@ -1,0 +1,27 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: upaul@mail.ru
+Subject: =?UTF-8?B?0J3QvtCy0YvQuSDRgdCw0LnRgiDQvdCwIFdvcmRQcmVzcw==?=
+X-PHP-Originating-Script: 0:class-phpmailer.php
+Date: Sat, 29 Oct 2016 08:37:41 +0000
+From: WordPress <wordpress@localhost>
+Message-ID: <e48282e8e3e90f4d28eee690d87a6202@localhost>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Ваш новый сайт на WordPress успешно создан по адресу:
+
+http://localhost/baptizm.local
+
+Вы можете войти в панель управления со следующими координатами:
+
+Имя пользователя: upaul
+Пароль: Пароль, выбранный вами при установке.
+Адрес для входа: http://localhost/baptizm.local/wp-login.php
+
+Мы надеемся, что вам понравится новый сайт. Спасибо!
+
+--Команда WordPress
+https://wordpress.org/
+
